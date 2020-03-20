@@ -1,0 +1,2 @@
+# Masternodeguide
+OZEETY Masternode guidelines
